@@ -1,0 +1,14 @@
+{
+  "name": "edgica-test",
+  "version": "1.0.0",
+  "description": "Friends photographer",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrew Ryabinin",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "1.8.0"
+  }
+}
